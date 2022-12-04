@@ -1,8 +1,8 @@
 # About me
 
 Hi there 👋
-ソフトウェアが関連する仕事なら何でもやる系のエンジニアです。
-経験年数はそろそろ 20 years+ になります。
+
+ソフトウェアが関連する仕事なら何でもやる系のエンジニアです。経験年数はそろそろ 20 years+ になります。
 
 [![](https://raw.githubusercontent.com/blauerberg/blauerberg/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/blauerberg/blauerberg/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/blauerberg/blauerberg/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -13,20 +13,15 @@ Hi there 👋
 
 ソフトウェアの知見を活用したり伸ばしたりできれば、あまりこだわりはありません。
 
-自身のキャリアを考えて定期的に異なる分野に手を広げることはしていますが、
-基本的にはその時々の状況で不足したり問題を抱えている分野に入っていくことが多いです。
-雑用、または火消しとも言います 😇
+自身のキャリアを考えて定期的に異なる分野に手を広げることはしていますが、基本的にはその時々の状況で不足したり問題を抱えている分野に入っていくことが多いです。雑用、または火消しとも言います 😇
 
-引きこもってずっとコードだけを書きたいというような欲求も特になく、
-顧客やチームのメンバーとの双方向での学びを大事にしています。
+引きこもってずっとコードだけを書きたいというような欲求も特になく、顧客やチームのメンバーとの双方向での学びを大事にしています。
 
-単発の仕事ではなく数年単位の長いスパンで同じチームやクライアントと関わり、
-継続的な機能追加やセキュリティ更新、フレームワークのメジャーアップデート、サポートなどを行うことがほとんどです。
+単発の仕事ではなく数年単位の長いスパンで同じチームやクライアントと関わり、継続的な機能追加やセキュリティ更新、フレームワークのメジャーアップデート、サポートなどを行うことがほとんどです。
 
 ## 🍻 好きな技術分野
 
-業務分野と同じであまりこだわりはありません。
-興味があったり実務で必要になるものは、何でも覚えるし利用しています。
+業務分野と同じであまりこだわりはありません。興味があったり実務で必要になるものは何でも覚えるし利用しています。
 
 流行りものよりは、汎用性が高く原理原則に近い分野を好んで学習します。
 プログラミング言語では、強いて言えば Ruby のように自然言語的にコードが書ける道具が好きです。
@@ -60,7 +55,7 @@ Hi there 👋
 昔は macOS を利用していましたが、開発環境を Docker メインに切り替えたタイミングで Arch Linux へ移行。
 その後、WSL2 が出てからは Windows を利用しています。
 
-特定のプラットフォームに極力依存したくないため、最近はプライベートで利用する開発環境は GitHub Codespaces や AWS/GCP などに展開した揮発性のものを積極的に使っています。
+ローカル環境に極力依存したくないため、最近はプライベートで利用する開発環境は GitHub Codespaces や AWS/GCP などに展開した揮発性のものを積極的に使うようにしています。
 
 ## 🍴 技術スキル [^1]
 
@@ -68,18 +63,19 @@ Hi there 👋
   - Java (JavaEE, Spring, Apache Wicket, Ebean など)
   - Ruby (Ruby on Rails 1.x～4.x)
   - PHP (Drupal 4～10, Laravel)
-  - JavaScript/TypeScript (NodeJS, Express, AWS Lambda)
+  - JavaScript/TypeScript (NodeJS, Express)
   - SQL / RDBMS (Aurora, MySQL, MariaDB, PostgreSQL)
   - システム種別は業務システム、顧客サポートシステム、小規模～エンタープライズレベルの Web サイトなど様々
     - 業務システムに関しては就業管理、給与管理、生産管理、販売管理、会計管理などの実装経験あり [^2]
 - **フロントエンド開発 (5 years+)**
   - HTML, CSS (CSS preprocessor 含む), JavaScript/TypeScript などの基本的な取り扱いは問題なし
-  - 実業務ではフロントエンド以外の領域を主に担当することがほとんどで、ゼロから綺麗なアーキテクチャを組むには学習が必要
+  - デザイン的なセンスが皆無なので、その辺りの領域は大人しく得意な方にお任せ 😇
+  - 実業務ではフロントエンド以外の領域を主に担当することがほとんどで、ゼロから綺麗なアーキテクチャを組むには再学習が必要
   - 最近は Next.js や React を採用したアプリケーションのコードレビューや、小規模な変更を行うような関わり方が多い
 - **クラウドインフラの設計・管理 (5 years+)**
   - AWS
     - メジャーなサービスについては実務での利用経験あり [^3]
-    - アーキテクチャの検討は専任の担当者が行い、それに対してアプリケーション仕様や運用などの観点から設計へのフィードバックや IaC のコードレビューを行うことが多い
+    - アーキテクチャの検討は専任の別担当者が行い、それに対してアプリケーション仕様や運用などの観点から設計へのフィードバックや IaC のコードレビューを行うことが多い
   - GCP
     - 社内向け用途やプライベートで一部サービスの利用経験あり
   - Azure
@@ -96,5 +92,5 @@ Hi there 👋
   - 最後に Linux Kernel を触ったのはまだ 2.x の時代...
 
 [^1]: 賞味期限切れのもの含みます 😇
-[^2]: なんでも (しかもかなりキチンと) 内製する志向の会社に所属できたおかげで色々なドメインの知見に触れることができました 😇
+[^2]: なんでも (しかもかなりキチンと) 内製する志向の会社に所属できたおかげで色々なドメインの知見に触れることができました。
 [^3]: IAM, VPC, Route53, S3, CloudFront, ELB, EC2, ECS, EFS, Code*, RDS, Lambda, Batch, Systems Manager など
