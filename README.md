@@ -50,12 +50,12 @@ Hi there 👋
 - Docker
 - VisualStudio Code (昔は Vimmer でした)
 
-## 💻 開発環境
+## 🧑‍🤝‍🧑 コミュニティ活動
 
-昔は macOS を利用していましたが、開発環境を Docker メインに切り替えたタイミングで Arch Linux へ移行。
-その後、WSL2 が出てからは Windows を利用しています。
-
-ローカル環境に極力依存したくないため、最近はプライベートで利用する開発環境は GitHub Codespaces や AWS/GCP などに展開した揮発性のものを積極的に使うようにしています。
+- [Slide Share](https://www.slideshare.net/blauerberg/presentations)
+- [Speaker Deck](https://speakerdeck.com/blauerberg/)
+- [Drupal.org](https://www.drupal.org/user/646702/track)
+- [Drupal Japan ユーザーグループ](https://www.google.com/search?q=site%3Agroups.drupal.org+blauerberg)
 
 ## 🍴 技術スキル [^1]
 
