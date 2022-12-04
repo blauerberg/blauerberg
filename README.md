@@ -92,7 +92,7 @@ Hi there 👋
     - メール、ストレージなどを全社単位でクラウドサービスへ段階的に移行した経験もあり
 - **組み込み機器開発 (5 years+)**
   - 業務・産業用ネットワーク機器のプロトコルスタック開発 (Intel IXP シリーズなど)
-  - Embedded Linux のアプリケーション、Device Driver の開発
+  - Embedded Linux のアプリケーション、Device Driver の開発 (C, C++)
   - 最後に Linux Kernel を触ったのはまだ 2.x の時代...
 
 [^1]: 賞味期限切れのもの含みます 😇
