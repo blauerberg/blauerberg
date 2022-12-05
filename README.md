@@ -34,7 +34,7 @@ Hi there 👋
 - ウォーターフォール、アジャイル (スクラム) 、受託開発、自社サービス・製品開発など様々なプロジェクトの経験
 - 自社サービスの企画、開発、運用 (IoT 機器の管理サービス、システム診断サービス)
 - クライアントへの提案作成、プレゼン
-- いわゆる情シス業務 (ユーザーサポート、インフラ運用、社内ネットワーク構築、アカウント管理、セキュリティ管理、各種啓蒙活動など)
+- 情シス・システム管理者業務 (ユーザーサポート、インフラ運用、社内ネットワーク構築、アカウント管理、セキュリティ管理、各種啓蒙活動など)
 - 某社 CTO
 - エンジニア採用業務 (募集要項や評価軸の検討・運用、面談など)
 - 新人研修の仕組み構築や講師、メンター担当など
@@ -57,7 +57,13 @@ Hi there 👋
 - [Drupal.org](https://www.drupal.org/user/646702/track)
 - [Drupal Japan ユーザーグループ](https://www.google.com/search?q=site%3Agroups.drupal.org+blauerberg)
 
-## 🍴 技術スキル [^1]
+## 📘 書いた本
+
+- [Drupal 8 スタートブック(共著)](https://www.amazon.co.jp/dp/4295000582)
+
+## 🍴 技術スキルと保有資格 [^1]
+
+<details>
 
 - **バックエンド開発 (10 years+)**
   - Java (JavaEE, Spring, Apache Wicket, Ebean など)
@@ -90,6 +96,11 @@ Hi there 👋
   - 業務・産業用ネットワーク機器のプロトコルスタック開発 (Intel IXP シリーズなど)
   - Embedded Linux のアプリケーション、Device Driver の開発 (C, C++)
   - 最後に Linux Kernel を触ったのはまだ 2.x の時代...
+- **保有資格**
+  - [Triple Certified Drupal Expert - Drupal 8](https://certification.acquia.com/user/9516)
+  - IPA セキュリティスペシャリスト
+  - その他 (UMTP L2, Comptia Network+, SJC-P SE5, Ruby Association Certified Ruby Programmer Silver, ITIL ファンデーション, CIW ファンデーション, etc..)
+</details>
 
 [^1]: 賞味期限切れのもの含みます 😇
 [^2]: なんでも (しかもかなりしっかりと) 内製する志向の会社に所属できたおかげで色々なドメインの知見に触れることができました。
