@@ -21,7 +21,7 @@
     - 社内向け用途やプライベートで一部サービスの利用経験あり
   - Azure
     - 小規模サイトの運用で一部サービスの利用経験あり
-  - Infrastructure as Code: Terraform, Docker, Ansible
+  - Infrastructure as code: Terraform, Docker, Ansible
   - 各種自動化の支援: AWS Lambda/CodeBuild/CodeDeploy/CodePipeline, GitHub Actions, Bitbucket Pipelines など
 - **オンプレインフラの運用管理 (5 years+)**
   - サーバーラック3台程度、サービス数で10～15程度のオンプレインフラの構築、運用 (VMware ESXi 4.x / 5.x, UPS, 各種 NW 機器、拠点間 VPN)

@@ -13,7 +13,7 @@ Hi there 👋
 
 ソフトウェアの知見を活用したり伸ばしたりできれば、あまりこだわりはありません。
 
-自身のキャリアを考えて定期的に異なる分野に手を広げることはしていますが、基本的にはその時々の状況で不足したり問題を抱えている分野に入っていくことが多いです。雑用、または火消しとも言います 😇
+自身のキャリアを考えて定期的に異なる分野に手を広げることはしていますが、基本的にその時々の所属組織内で不足したり問題を抱えている分野に入っていくことが多いです。雑用、または火消しとも言います 😇
 
 引きこもって一人でずっとコードだけを書きたいというような欲求は特になく、顧客やチームメンバーとの双方向での学びを大事にしています。
 
@@ -24,7 +24,7 @@ Hi there 👋
 業務分野と同じであまりこだわりはありません。興味があったり実務で必要になるものは何でも覚えるし利用しています。
 
 流行りものよりは、汎用性が高く原理原則に近い分野を好んで学習します。
-プログラミング言語では、強いて言えば Ruby のように自然言語に近い感覚でコードが書ける言語が好きです。
+プログラミング言語では、強いて言えば Ruby のように自然言語に近い感覚でコードが書ける言語が好みです。
 
 ## 📓 今までやってきた分野
 
@@ -55,10 +55,9 @@ Hi there 👋
 ## 🧑‍🤝‍🧑 コミュニティ活動
 
 - [Slide Share](https://www.slideshare.net/blauerberg/presentations)
-- [Speaker Deck](https://speakerdeck.com/blauerberg/)
 - [Drupal.org](https://www.drupal.org/user/646702/track)
 - [Drupal Japan ユーザーグループ](https://www.google.com/search?q=site%3Agroups.drupal.org+blauerberg)
-- [HubSpot Community](https://community.hubspot.com/t5/user/viewprofilepage/user-id/544228) (絶賛修行中)
+- [HubSpot Community](https://community.hubspot.com/t5/user/viewprofilepage/user-id/544228)
 
 ## 📘 書いた本
 
