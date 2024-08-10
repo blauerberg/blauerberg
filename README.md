@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-ソフトウェアが関連する仕事なら何でもやる系のエンジニアです。経験年数はそろそろ 20 years+ になります。
+ソフトウェアが関連する仕事なら何でもやる系のエンジニアです。経験年数は 20 years+ になります。
 
 [![](https://raw.githubusercontent.com/blauerberg/blauerberg/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/blauerberg/blauerberg/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/blauerberg/blauerberg/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -11,20 +11,20 @@ Hi there 👋
 
 ## 🍺 好きな業務分野
 
-ソフトウェアの知見を活用したり伸ばしたりできれば、あまりこだわりはありません。
+ソフトウェアに関する知見を活用したり伸ばしたりできれば、あまりこだわりはありません。
 
 自身のキャリアを考えて定期的に異なる分野に手を広げることはしていますが、基本的にその時々の所属組織内で不足したり問題を抱えている分野に入っていくことが多いです。雑用、または火消しとも言います 😇
 
-引きこもって一人でずっとコードだけを書きたいというような欲求は特になく、顧客やチームメンバーとの双方向での学びを大事にしています。
+一人でずっとコードだけを書きたいというような欲求は特になく、チームメンバーやクライアントと一緒に双方向で学んでいくことを大事にしています。
 
-単発の仕事ではなく数年単位の長いスパンで同じチームやクライアントと関わり、継続的な機能追加やセキュリティ更新、フレームワークのメジャーアップデート、サポートなどを行うことがほとんどです。
+単発ではなく数年単位の長いスパンで同じチームやクライアントと関わり、システムやサービスに対する継続的な機能追加やセキュリティ更新、フレームワークのメジャーアップデート、サポートなどを行うことがほとんどです。
 
 ## 🍻 好きな技術分野
 
 業務分野と同じであまりこだわりはありません。興味があったり実務で必要になるものは何でも覚えるし利用しています。
 
-流行りものよりは、汎用性が高く原理原則に近い分野を好んで学習します。
-プログラミング言語では、強いて言えば Ruby のように自然言語に近い感覚でコードが書ける言語が好みです。
+流行りものよりは汎用性が高く原理原則に近い分野を好んで学習します。
+プログラミング言語では、強いて言えば自然言語に近い感覚でコードが書ける言語(Ruby など)が好みです。
 
 ## 📓 今までやってきた分野
 
@@ -47,7 +47,7 @@ Hi there 👋
 - Notion
 - Google Workspace
 - AWS
-- GCP
+- Google Cloud
 - Docker
 - VisualStudio Code
 - HubSpot
